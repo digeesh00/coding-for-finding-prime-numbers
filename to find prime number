@@ -1,4 +1,4 @@
-#to find prime number
+# to find prime number
 num=int(input("Enter any number:"))
 if num == 1:
     print(num,"It is not a prime number")
